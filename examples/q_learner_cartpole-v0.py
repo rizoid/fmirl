@@ -31,8 +31,6 @@ def cart_pole_with_qlearning():
     #env = Monitor(env, experiment_filename)
 
     goal_average_steps = 195
-    max_number_of_steps = 200
-    number_of_iterations_to_average = 100
 
     number_of_features = env.observation_space.shape[0]
     last_time_steps = np.ndarray(0)

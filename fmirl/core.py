@@ -5,7 +5,7 @@ __copyright__ = "Copyright 2019, TU Dresden"
 __license__   = "GPL"
 __credits__   = ["Christian Richter"]
 __email__     = "christian.richter1@tu-dresden.de"
-__project__   = "sysrl"
+__project__   = "FmiRL"
 __version__   = "0.1.0"
 
 
